@@ -1,4 +1,0 @@
-</>Bash
-cd /workspace/statements
-git remote add origin <sciencepumpkin>
-git push -u origin work
